@@ -1,0 +1,7 @@
+All possible paths:
+ ->  ->  ->  ->  -> 
+
+Best path:
+ ->  ->  ->  ->  -> 
+
+Cost of the best path: 0 miles

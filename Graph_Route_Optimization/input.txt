@@ -1,0 +1,5 @@
+0 218 518 704 439   // Distance from Reno to other cities
+218 0 802 1155 567   // Distance from San Francisco to other cities
+518 802 0 835 421   // Distance from Salt Lake City to other cities
+704 1155 835 0 1112  // Distance from Seattle to other cities
+439 567 421 1112 0   // Distance from Las Vegas to other cities
