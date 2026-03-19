@@ -1,4 +1,4 @@
-//This is the graph interface, which was given to us.
+//This is the graph interface
 #ifndef GRAPH_INTERFACE
 #define GRAPH_INTERFACE
 
