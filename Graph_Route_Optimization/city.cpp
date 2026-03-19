@@ -1,3 +1,4 @@
+//Author: Jax Hendrickson
 //This is the city source file, which implements the city header file. 
 #include "city.h"
 
