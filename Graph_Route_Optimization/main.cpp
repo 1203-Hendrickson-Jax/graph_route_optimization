@@ -1,5 +1,4 @@
 //Author: Jax Hendrickson
-//Date: 11/29/2023
 //Purpose: To create all possible paths between 5 cities using graphs, and to find which path is the most cost-efficient out of the bunch. 
 #include "graph.h"
 
